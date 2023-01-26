@@ -1,0 +1,16 @@
+
+/*
+
+COMMENTS FROM THE INSTRUCTOR:
+
+There were some funky issues in your project here, Luke, although I think
+there all fixed up now. There was a weird "/" in your .gitignore file 
+(which maybe I'd seen in some other files?) and all the files had a
+"copy" appended to the end of the file name--what's up with that?
+
+I changed the filenames and it seems to work fine now!
+
+SCORE: 19/20
+
+*/
+
